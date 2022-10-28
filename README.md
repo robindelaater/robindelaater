@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Robin! 👋
 
-<!--
-**robindelaater/robindelaater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a creative developer and love to surround myself with talented individuals and team members.\
+Within a few years time, I’ve had the pleasure of working with startups and scale-ups (Solease, MyParcel) running in-house dev teams and established corporations such as MultiSafepay. \
 
-Here are some ideas to get you started:
+Working on both ends of the software spectrum, doing technical implementation as well as client support, has given me a solid understanding of code and communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at MultiSafepay under [@robin-multisafepay](https://github.com/robin-multisafepay)
+- 🌱 I’m currently learning how to focus on one thing at a time! 😛
+- 👯 I’m looking to collaborate on anything really, just shoot me a message.
+- 💬 Ask me about payments and/or e-commerce development!
+- 📫 How to reach me: DM me on Twitter or send me an email.
+- ⚡ Fun fact: I've been playing guitar for quite a while and love metal! 🎸
