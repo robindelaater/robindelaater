@@ -5,7 +5,6 @@ Within a few years time, I’ve had the pleasure of working with startups and sc
 
 Working on both ends of the software spectrum, doing technical implementation as well as client support, has given me a solid understanding of code and communication.
 
-- 🔭 I’m currently working at MultiSafepay under [@robin-multisafepay](https://github.com/robin-multisafepay)
 - 🌱 Learning NextJS and Supabase! 😛
 - 👯 I’m looking to collaborate on anything really, just shoot me a message.
 - 💬 Ask me about payments and/or e-commerce integrations!
