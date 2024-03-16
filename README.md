@@ -7,5 +7,5 @@ Working on both ends of the software spectrum, doing technical implementation as
 
 - 👯 Open to collaborate on anything really, just shoot me a message!
 - 💬 Always on to discuss new (development or other) trends in the ecommerce space.
-- 📫 How to reach me: DM me on Twitter/X or shoot me an email.
+- 📫 How to reach me: Just shoot me an email!
 - ⚡ Fun fact: I've been playing guitar for quite a while and love metal! 🎸
