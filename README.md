@@ -9,3 +9,5 @@ Working on both ends of the software spectrum, doing technical implementation as
 - 💬 Always on to discuss new (development or other) trends in the ecommerce space.
 - 📫 How to reach me: Just shoot me an email!
 - ⚡ Fun fact: I've been playing guitar for quite a while and love metal! 🎸
+
+![Robin's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robindelaater&show_icons=true&hide=css,scss,html&theme=gruvbox&include_all_commits=true&size_weight=0&count_weight=0.5&layout=donut)
