@@ -5,7 +5,6 @@ Within a few years time, I’ve had the pleasure of working with startups and sc
 
 Working on both ends of the software spectrum, doing technical implementation as well as client support, has given me a solid understanding of code and communication.
 
-- 👯 Open to collaborate on anything really, just shoot me a message!
 - 💬 Always on to discuss new (development or other) trends in the ecommerce space.
 - 📫 How to reach me: Just shoot me an email!
 - ⚡ Fun fact: I've been playing guitar for quite a while and love metal! 🎸
